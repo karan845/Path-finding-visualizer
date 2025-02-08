@@ -67,7 +67,7 @@ path_finding_visualizer/
    ```
 2. **Clone the Repository:**
    ```bash
-   git clone 
+   git clone https://github.com/karan845/Path-finding-visualizer.git
    ```
 3. **Build the Package:**
    ```bash
