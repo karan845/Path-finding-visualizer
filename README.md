@@ -118,10 +118,4 @@ After launching any node, a persistent Matplotlib window will appear and update 
 - **Colormap and Aesthetics:** Adjust the custom colormap colors, background, and grid line settings to change the look and feel.
 - **Animation Timing:** Change the `pause_time` parameter (default 0.2 sec) in `grid.py` to speed up or slow down the animation.
 
-## Contributing
 
-Contributions, issues, and suggestions are welcome! Please feel free to open an issue or submit a pull request with improvements or bug fixes.
-
-## License
-
-This project is licensed under the [Apache License 2.0](LICENSE).
